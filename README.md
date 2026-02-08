@@ -3,5 +3,5 @@
 - 🌐 **Live Streamlit App:**  
   [Access to Care Dashboard](https://access-to-care.streamlit.app/)
 
-- 📄 **Analysis Report (PDF):**  
+- 📄 **Presentation Slide (PDF):**  
   [Access to Care Analysis](./Presentation.pdf)
